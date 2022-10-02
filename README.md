@@ -16,4 +16,4 @@ This will create the URL http://127.0.0.1:8000/ at the command prompt
 
 Open the following URL to see the welcome message
 
-http://127.0.0.1:8000/polls
+http://127.0.0.1:8000/mypolls
